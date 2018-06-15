@@ -1,8 +1,10 @@
 package com.tata.mvpdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.tata.mvpdemo.login.LoginActivity;
 
 public class MainActivity extends AppCompatActivity {
 

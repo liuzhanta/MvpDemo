@@ -1,4 +1,4 @@
-package com.tata.mvpdemo;
+package com.tata.mvpdemo.login;
 
 import com.tata.mvpdemo.base.IView;
 

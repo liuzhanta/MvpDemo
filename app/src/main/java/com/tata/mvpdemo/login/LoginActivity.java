@@ -1,4 +1,4 @@
-package com.tata.mvpdemo;
+package com.tata.mvpdemo.login;
 
 import android.content.Context;
 import android.content.Intent;
@@ -8,6 +8,7 @@ import android.os.Message;
 import android.view.View;
 import android.widget.Toast;
 
+import com.tata.mvpdemo.R;
 import com.tata.mvpdemo.base.BaseActivity;
 
 public class LoginActivity extends BaseActivity<LoginPresenter, ILoginView> implements ILoginView {

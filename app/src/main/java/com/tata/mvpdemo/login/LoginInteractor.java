@@ -1,8 +1,5 @@
-package com.tata.mvpdemo;
+package com.tata.mvpdemo.login;
 
-
-import android.os.Handler;
-import android.os.Message;
 
 public class LoginInteractor {
 
